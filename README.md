@@ -10,6 +10,7 @@ I will:
 3. Gain experience and then do my own better things.
 5. Enter a data science competition
 4. I will have- Home, Family, Roadtrips, Guns and Travel
+5. I fucking love tacos.
 
 
 Heres to the bot future. Cheers!
